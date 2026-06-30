@@ -1,0 +1,9 @@
+C:\Users\weron\Documents\saper\saper\saper_app\target\debug\deps\utf8_iter-0ce875cca8500c73.d: C:\Users\weron\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8_iter-1.0.4\src\lib.rs C:\Users\weron\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8_iter-1.0.4\src\indices.rs C:\Users\weron\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8_iter-1.0.4\src\report.rs
+
+C:\Users\weron\Documents\saper\saper\saper_app\target\debug\deps\libutf8_iter-0ce875cca8500c73.rlib: C:\Users\weron\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8_iter-1.0.4\src\lib.rs C:\Users\weron\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8_iter-1.0.4\src\indices.rs C:\Users\weron\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8_iter-1.0.4\src\report.rs
+
+C:\Users\weron\Documents\saper\saper\saper_app\target\debug\deps\libutf8_iter-0ce875cca8500c73.rmeta: C:\Users\weron\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8_iter-1.0.4\src\lib.rs C:\Users\weron\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8_iter-1.0.4\src\indices.rs C:\Users\weron\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8_iter-1.0.4\src\report.rs
+
+C:\Users\weron\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8_iter-1.0.4\src\lib.rs:
+C:\Users\weron\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8_iter-1.0.4\src\indices.rs:
+C:\Users\weron\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\utf8_iter-1.0.4\src\report.rs:
